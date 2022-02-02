@@ -9,6 +9,7 @@ package studentlist1;
  * @author tran80 Feb 2022
  */
 public class PartTimeStudent  extends Student {
+    //This is done
     private int numCourses;
 
     public PartTimeStudent(int numCourses, String name) {
